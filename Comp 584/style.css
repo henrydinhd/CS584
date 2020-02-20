@@ -1,0 +1,52 @@
+.form{
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    z-index: 1;
+    background: white;
+    max-width: 275px;
+    margin: 0 auto 50px;
+    padding: 45px;
+    text align: center;
+  }
+  
+  h2{
+    color: red;
+  }
+  
+  body{
+    witdth: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2.5% 2.5% 0;
+    background: rgba(170, 166, 166, 0.8);
+    line-height: 1.0;
+    font-size: 100%;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: left;
+  }
+  
+  select{
+    width: 150px;
+    overflow: hidden;
+    position: relative;
+    padding: 2px 0;
+  }
+  
+  fieldset{
+    margin: 8px;
+    border: 1px solid silver;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  legend{
+    padding: 2px;
+  }
+  
+  .font{
+    font-weight: bold;
+  }
+  
+  .button{
+    border-radius: 4px;
+  }
